@@ -23,7 +23,7 @@ The components below are required in order to use the visualizations.
 ```
 - Maxout :
 ```bash
-  python ./src/maxout.py <model : path/name_model.h5> <layer : int> <filter : int or "all"> <saved output : name.jpg>
+  python ./src/maxout.py <model : path/name_model.h5> <layer : int> <filter : int or "all"> <max_iter : int> <saved output : name.jpg>
 ```
 ## Load deep learning models with pre-trained weights
 
