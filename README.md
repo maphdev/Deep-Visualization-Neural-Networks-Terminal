@@ -1,3 +1,9 @@
+----------
+
+__This project has since been updated to offer a web interface to simplify its use. Minor bugs have also been fixed. You can find this updated project [here](https://github.com/maphdev/Deep_Visualization_Neural_Networks_Web_app).__
+
+----------
+
 # Deep Visualization Neural Networks
 
 Programmation project carried out as part of the Master's degree in Computer Science at the University of Bordeaux.
@@ -34,7 +40,7 @@ If you want to quickly experiment or you don't have any trained model available,
 ```
 Three models are available with this command :
 
-- "VGG16" : a 16-layers network trained on ImageNet, with a default input size of 224x224.
+- "VGG16" : a 22-layers network trained on ImageNet, with a default input size of 224x224.
 - "ResNet50" : a 175-layers network trained on ImageNet, with a default input size of 224x224.
 - "NASNetLarge" : a 1021-layers network trained on ImageNet, with a default input size of 331x331.
 
